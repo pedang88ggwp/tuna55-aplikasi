@@ -1,0 +1,6 @@
+{
+  "name": "Tuna55 App Download",
+  "description": "Halaman unduh aplikasi game resmi Tuna55 dengan deteksi otomatis perangkat dan tombol download cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
